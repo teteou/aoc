@@ -1,10 +1,9 @@
 package days;
 
-import utils.dailyInput;
-
+import utils.DailyInput;
 import java.util.List;
 
-public class dayThree extends dailyInput {
+public class DayThree extends DailyInput {
 
 
     // Part One

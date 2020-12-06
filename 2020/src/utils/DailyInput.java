@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class dailyInput {
+public class DailyInput {
 
     private static final Path today = Path.of("src/inputs/" + "Day_" + LocalDate.now().getDayOfMonth() + ".txt");
     public static List<String> todayList = new ArrayList<>();

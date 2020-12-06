@@ -1,10 +1,9 @@
 package days;
-import utils.dailyInput;
-
+import utils.DailyInput;
 import java.util.ArrayList;
 import java.util.List;
 
-public class dayFour extends dailyInput{
+public class DayFour extends DailyInput {
 
     //
     private static String[] validators = {"ecl:", "pid:", "eyr:", "hcl:", "byr:", "iyr:", "hgt:"};

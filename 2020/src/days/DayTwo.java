@@ -1,12 +1,11 @@
 package days;
 
-import utils.dailyInput;
-
+import utils.DailyInput;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class dayTwo extends dailyInput {
+public class DayTwo extends DailyInput {
 
     //Part One
     private static void partOne(List<String> input) {

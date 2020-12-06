@@ -1,13 +1,12 @@
 package days;
 
-import utils.dailyInput;
-
+import utils.DailyInput;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.IntStream;
 
-public class dayFive  extends dailyInput {
+public class DayFive extends DailyInput {
     private static Set<Integer> asientos = new HashSet<>();
 
     // Part One
