@@ -4,7 +4,7 @@ import utils.DailyInput;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DayEight extends DailyInput {
+public class Day08 extends DailyInput {
 
     // Main
     public static void main(String[] args)  {

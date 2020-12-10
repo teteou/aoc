@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class DayOne {
+public class Day01 {
 
     // ==== Part One ====
     public static void getPares(Integer[] arr, int sum)
@@ -66,7 +66,7 @@ public class DayOne {
                 scanner.next();
             }
         }
-        DayOne triplet = new DayOne();
+        Day01 triplet = new Day01();
         Integer[] arr = list.toArray(new Integer[0]);
         int sum = 2020;
         System.out.println("Part One");

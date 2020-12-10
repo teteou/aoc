@@ -3,7 +3,7 @@ package days;
 import utils.DailyInput;
 import java.util.List;
 
-public class DayThree extends DailyInput {
+public class Day03 extends DailyInput {
 
 
     // Part One

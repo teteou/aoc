@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DayNine extends DailyInput {
+public class Day09 extends DailyInput {
 
     // Main
     public static void main(String[] args)  {

@@ -4,7 +4,7 @@ import utils.DailyInput;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class DaySeven extends DailyInput{
+public class Day07 extends DailyInput{
 
     // Main
     public static void main(String[] args) {

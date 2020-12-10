@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.IntStream;
 
-public class DayFive extends DailyInput {
+public class Day05 extends DailyInput {
     private static Set<Integer> asientos = new HashSet<>();
 
     // Part One

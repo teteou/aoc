@@ -3,7 +3,7 @@ import utils.DailyInput;
 
 import java.util.*;
 
-public class DaySix extends DailyInput {
+public class Day06 extends DailyInput {
 
     // MAIN
     public static void main(String[] args) {

@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class DayTwo extends DailyInput {
+public class Day02 extends DailyInput {
 
     //Part One
     private static void partOne(List<String> input) {

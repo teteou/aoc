@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class DayTen extends DailyInput {
+public class Day10 extends DailyInput {
     public static void main(String[] args)  {
 
         List<Integer> list = new ArrayList<>();

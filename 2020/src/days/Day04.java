@@ -3,7 +3,7 @@ import utils.DailyInput;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DayFour extends DailyInput {
+public class Day04 extends DailyInput {
 
     //
     private static String[] validators = {"ecl:", "pid:", "eyr:", "hcl:", "byr:", "iyr:", "hgt:"};
